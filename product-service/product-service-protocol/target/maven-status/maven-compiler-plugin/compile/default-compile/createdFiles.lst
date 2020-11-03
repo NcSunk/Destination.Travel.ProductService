@@ -1,0 +1,13 @@
+com\destination\travel\product\enums\StayInClassifyEnum.class
+com\destination\travel\product\enums\TicketDateModeEnum.class
+com\destination\travel\product\dto\ApplicableCrowdResDto.class
+com\destination\travel\product\enums\ChildBookLimitEnum.class
+com\destination\travel\product\enums\CloudWayEnum.class
+com\destination\travel\product\enums\NeedContactInfoEnum.class
+com\destination\travel\product\enums\TicketInventoryModeEnum.class
+com\destination\travel\product\enums\NeedTouristInfoEnum.class
+com\destination\travel\product\enums\AdvanceBuyTypeEnum.class
+com\destination\travel\product\enums\MeansOfTransportationEnum.class
+com\destination\travel\product\dto\TicketDetailDto.class
+com\destination\travel\product\enums\AdmissionMethodTypeEnum.class
+com\destination\travel\product\enums\TicketRefundEnum.class
