@@ -1,6 +1,6 @@
 package com.destination.travel.product.service;
 
-import com.destination.travel.product.domain.TicketDetail;
+import com.destination.travel.product.domain.ticket.TicketDetail;
 import org.springframework.stereotype.Service;
 
 @Service
